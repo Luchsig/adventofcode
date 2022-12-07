@@ -16,14 +16,14 @@ public class main {
 //        DayFive dayFive = new DayFive();
 //        dayFive.challenge("src/main/resources/Day5.txt");
 
-        DaySix daySix = new DaySix();
-        daySix.protocol("src/main/resources/Day6.txt");
+//        DaySix daySix = new DaySix();
+//        daySix.protocol("src/main/resources/Day6.txt");
 
-//        DaySeven daySeven = new DaySix();
+//        DaySeven daySeven = new DaySeven();
 //        daySeven.challenge("src/main/resources/Day7.txt");
 
-//        DayEight dayEight = new DayEight();
-//        dayEight.challenge("src/main/resources/Day8.txt");
+        DayEight dayEight = new DayEight();
+        dayEight.challenge("src/main/resources/Day8.txt");
 
 //        DayNine dayNine = new DayNine();
 //        dayNine.challenge("src/main/resources/Day9.txt");
