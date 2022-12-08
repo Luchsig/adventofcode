@@ -23,7 +23,7 @@ public class main {
 //        daySeven.challenge("src/main/resources/Day7.txt");
 
         DayEight dayEight = new DayEight();
-        dayEight.challenge("src/main/resources/Day8.txt");
+        dayEight.treeHouse("src/main/resources/Day8.txt");
 
 //        DayNine dayNine = new DayNine();
 //        dayNine.challenge("src/main/resources/Day9.txt");
